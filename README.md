@@ -48,7 +48,7 @@ It is designed using **HTML, CSS, and JavaScript** with a simple and clean user 
 The project is hosted using **GitHub Pages**.
 
 Live Website:
-https://chenjisandeep.github.io/portfolio-website
+https://chenjisandeep.github.io/portfolio_website
 
 ---
 
