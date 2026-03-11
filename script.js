@@ -1,3 +1,5 @@
 function showMessage(){
-alert("Welcome to my portfolio website!");
+
+alert("Thank you for visiting my portfolio!");
+
 }
